@@ -21,3 +21,8 @@ link:hover{
     color: gold;
     font-size: 15px;
 }
+#imagem-estudante{
+    border: dotted 10px blue;
+    width: 100px;
+    height: 100px;
+}
